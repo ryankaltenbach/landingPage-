@@ -37,3 +37,9 @@ body {
 .img-fluid:hover {
   opacity: 1;
 }
+.jumbotron-1 {
+  background-image: url("assets/Footimage.jpg");
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20%;
+}
