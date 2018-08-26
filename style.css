@@ -1,0 +1,39 @@
+body {
+  font-family: 'Sofadi One', cursive;
+  color: #FBDB9D;
+}
+.coconut {
+  height: 25px;
+  width: 25px;
+}
+.jumbotron {
+  background-image: url("assets/landing.jpg");
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20%;
+}
+.display-1 {
+  font-family:'Indie Flower', cursive;
+  text-shadow: 3px 2px 2px;
+}
+.card {
+  grid-column-start: 3;
+  max-width: inherit;
+}
+.card-title {
+  color: #F77305;
+  font-weight: 400;
+}
+.deck-title {
+  Color:#04CCDC;
+  font-style: oblique;
+  text-align: center;
+}
+.img-fluid {
+    opacity: 0.5;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+
+}
+.img-fluid:hover {
+  opacity: 1;
+}
